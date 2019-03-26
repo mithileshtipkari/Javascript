@@ -1,3 +1,4 @@
+//author Mithilesh
 //#1n2 Create a promise that resolves in 4 seconds and returns "success" string
 
 const promise = new Promise((resolve, reject) => {
